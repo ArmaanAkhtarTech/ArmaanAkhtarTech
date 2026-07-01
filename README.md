@@ -27,7 +27,7 @@ I am a cybersecurity student currently building my technical foundation in progr
 
 Projects Coming Soon
 
-- Password Strength Checker
+- Password Strength Checker - Completed
 - File Integrity Checker
 - Suspicious Login Detector
 - Wireshark Network Investigation
