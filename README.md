@@ -26,13 +26,21 @@ I am a cybersecurity student currently building my technical foundation in progr
 ---
 
 Projects
+
 Password Strength Checker — Completed
+
 File Integrity Checker — Completed
+
 Log File Analyzer — Completed
+
 Port Scanner — Completed
+
 Packet Analyzer — Completed
+
 Java Farming Game — Completed
+
 Wireshark Network Investigation — Completed
+
 TryHackMe SOC / Blue Team Labs — Completed
 
 ---
