@@ -25,14 +25,15 @@ I am a cybersecurity student currently building my technical foundation in progr
 
 ---
 
-Projects Coming Soon
-
-- Password Strength Checker - Completed
-- File Integrity Checker
-- Suspicious Login Detector
-- Wireshark Network Investigation
-- Windows Event Log Investigation
-- SOC Incident Response Case Study
+Projects
+Password Strength Checker — Completed
+File Integrity Checker — Completed
+Log File Analyzer — Completed
+Port Scanner — Completed
+Packet Analyzer — Completed
+Java Farming Game — Completed
+Wireshark Network Investigation — Completed
+TryHackMe SOC / Blue Team Labs — Completed
 
 ---
 
